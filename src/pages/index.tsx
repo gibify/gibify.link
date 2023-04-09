@@ -12,8 +12,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>links.gibify | Entrar</title>
-        <link rel="icon" href="/links.gibify.favicon.png" />
+        <title>gibify.link | Entrar</title>
+        <link rel="icon" href="/favicon.gibify.link.png" />
         <meta name="description" content="compartilhe seus links facilmente." />
         <meta name="keywords" content="links, compartilhar meu links, compartilhar links, social media" />
         <meta name="og:title" content="gibify.link" />
